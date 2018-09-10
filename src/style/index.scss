@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.main{
+  background-color: rgb(53, 52, 151);
+  color: #fff;
+  .main-child {
+    width: 40vw;
+    margin-left: 5vw;
+    padding-bottom: 5vh;
+    h1{
+    font-size: 4rem;
+  }
+  .background {
+
+    top: 100px;
+  }
+}
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+
+  img {
+    width: 100px;
+  }
+}
+
+.second {
+  display: flex;
+  justify-content: space-around;
+}
+button {
+  padding: 25px 42px;
+  border: 1px solid grey;
+  border-radius: 15px;
+}
+
+

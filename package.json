@@ -1,0 +1,31 @@
+{
+  "name": "lab-hello-ironhack",
+  "version": "1.0.0",
+  "description": "exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youxiberlin/lab-hello-ironhack.git"
+  },
+  "author": "yuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youxiberlin/lab-hello-ironhack/issues"
+  },
+  "homepage": "https://github.com/youxiberlin/lab-hello-ironhack#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "node-sass": "^4.9.3"
+  },
+  "dependencies": {
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0"
+  }
+}
